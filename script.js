@@ -1,1 +1,3 @@
-function comingSoon(){alert("서포트 서버는 현재 준비 중입니다. 조금만 기다려주세요!");}
+function comingSoon() {
+  alert("현재 준비 중입니다. 조금만 기다려주세요!");
+}
